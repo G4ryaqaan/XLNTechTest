@@ -1,0 +1,15 @@
+/Users/amallll/Documents/XLNTest/XLNTest/bin/Debug/net7.0/XLNTest
+/Users/amallll/Documents/XLNTest/XLNTest/bin/Debug/net7.0/XLNTest.deps.json
+/Users/amallll/Documents/XLNTest/XLNTest/bin/Debug/net7.0/XLNTest.runtimeconfig.json
+/Users/amallll/Documents/XLNTest/XLNTest/bin/Debug/net7.0/XLNTest.dll
+/Users/amallll/Documents/XLNTest/XLNTest/bin/Debug/net7.0/XLNTest.pdb
+/Users/amallll/Documents/XLNTest/XLNTest/obj/Debug/net7.0/XLNTest.csproj.AssemblyReference.cache
+/Users/amallll/Documents/XLNTest/XLNTest/obj/Debug/net7.0/XLNTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amallll/Documents/XLNTest/XLNTest/obj/Debug/net7.0/XLNTest.AssemblyInfoInputs.cache
+/Users/amallll/Documents/XLNTest/XLNTest/obj/Debug/net7.0/XLNTest.AssemblyInfo.cs
+/Users/amallll/Documents/XLNTest/XLNTest/obj/Debug/net7.0/XLNTest.csproj.CoreCompileInputs.cache
+/Users/amallll/Documents/XLNTest/XLNTest/obj/Debug/net7.0/XLNTest.dll
+/Users/amallll/Documents/XLNTest/XLNTest/obj/Debug/net7.0/refint/XLNTest.dll
+/Users/amallll/Documents/XLNTest/XLNTest/obj/Debug/net7.0/XLNTest.pdb
+/Users/amallll/Documents/XLNTest/XLNTest/obj/Debug/net7.0/XLNTest.genruntimeconfig.cache
+/Users/amallll/Documents/XLNTest/XLNTest/obj/Debug/net7.0/ref/XLNTest.dll
